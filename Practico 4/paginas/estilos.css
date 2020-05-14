@@ -1,0 +1,69 @@
+#Bienvenidos {
+    background-color: rgb(186, 201, 54);
+    width: 13%;
+}
+#Productos {
+   background-color: yellow;
+   width: 8%;
+}
+#Servicios {
+   background-color: yellow;
+   width: 8%; 
+}
+#Perfil {
+   background-color: yellow;
+   width: 8%; 
+}
+#Productos {
+   background-color: rgba(233, 233, 44, 0.938);
+   width: 11%; 
+}
+#Codigo {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Nombre {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Marca {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Precio {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Servicios {
+   background-color: rgba(233, 233, 44, 0.938);
+   width: 9%; 
+}
+#Codigo {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Nombre {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#Precio {
+   background-color: rgb(240, 146, 216);
+   width: 5%; 
+}
+#nombre {
+   background-color: rgb(240, 146, 216);
+   width: 9%; 
+}
+#apellido{
+   background-color: rgb(240, 146, 216);
+   width: 9%; 
+}
+#mail {
+   background-color: rgb(240, 146, 216);
+   width: 9%; 
+}
+#DNI {
+   background-color: rgb(240, 146, 216);
+   width: 9%; 
+   
+}
